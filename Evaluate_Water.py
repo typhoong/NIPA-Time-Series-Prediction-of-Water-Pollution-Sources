@@ -1,6 +1,5 @@
 """
 NIPA2022 - task10_water
-Nyeongmin Lee
 
 RMSE - by location & factor,
        only for factor/date existing in answer

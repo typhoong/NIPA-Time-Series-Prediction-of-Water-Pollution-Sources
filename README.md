@@ -4,14 +4,10 @@
 ### 데이터 구조
 
 ${PROJECT}
-
-├── train/
-
-│   └── train.json
-
-├── test/
-
-│   └── sample_submission.json
+  ├── train/
+  │   └── train.json
+  ├── test/
+  │   └── sample_submission.json
 
 ### 사용 모델
 

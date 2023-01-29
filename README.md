@@ -6,10 +6,12 @@
 ${PROJECT}
 
 ├── train/
-│   └── train.json
-├── test/
-│   └── sample_submission.json
 
+│   └── train.json
+
+├── test/
+
+│   └── sample_submission.json
 
 ### 사용 모델
 
